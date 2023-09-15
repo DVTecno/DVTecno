@@ -8,10 +8,16 @@ Me considero un apasionado aprendiz, siempre dispuesto a sumergirme en nuevos pr
 
 Mi objetivo es convertirme en un valioso activo para cualquier equipo de desarrollo, utilizando mi dedicación y amor por la programación para lograr resultados excepcionales. Estoy emocionado por las oportunidades futuras y listo para embarcarme en proyectos nuevos que me permitan seguir creciendo como programador y contribuir al éxito de su equipo. ¡Espero con ansias la oportunidad de colaborar juntos!
 
+### 📧 Contacto
 
+Puedes contactarme a través de mi correo electrónico: [verasdiegoca78@gmail.com](mailto:verasdiegoca78@gmail.com).
+
+También puedes encontrarme en las siguientes redes sociales:
 
 ## 🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elgrantecno) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-cristian-alfredo-veras-54b459249/)
+
+¡Estoy ansioso por conectarme contigo y colaborar en proyectos interesantes!
 
 
 # 💻 Tech Stack:
