@@ -1,6 +1,6 @@
 # 💫 Acerca de mí:
 
-¡Hola! Soy un entusiasta programador principiante de 45 años, orgulloso de llamar a Argentina mi hogar. Durante 3200 horas de dedicación en compañía de colegas de todo el mundo, participé en clases virtuales donde enfrentamos y resolvimos desafiantes problemas diarios.
+¡Hola! Soy un entusiasta programador principiante de 45 años, orgulloso de llamar a Argentina mi hogar. Durante 3700 horas de dedicación en compañía de colegas de todo el mundo, participé en clases virtuales donde enfrentamos y resolvimos desafiantes problemas diarios.
 
 Mi viaje en la programación comenzó en un apasionante entorno de aprendizaje en línea, donde la colaboración y la determinación nos impulsaron a superar obstáculos y lograr nuestras metas. Estas experiencias me llenaron de entusiasmo y reforzaron mi deseo constante de crecimiento en el mundo de la programación.
 
