@@ -15,7 +15,7 @@ Puedes contactarme a través de mi correo electrónico: [verasdiegoca78@gmail.co
 También puedes encontrarme en las siguientes redes sociales:
 
 ## 🌐 Redes Sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elgrantecno) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-cristian-alfredo-veras-54b459249/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elgrantecno) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-cristian-alfredo-v-54b459249/)
 
 ¡Estoy ansioso por conectarme contigo y colaborar en proyectos interesantes!
 
