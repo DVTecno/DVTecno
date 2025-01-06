@@ -1,6 +1,6 @@
-# 💫 Acerca de mí:
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=FFFFFF&background=6DB33F&center=true&vCenter=true&width=1200&height=100&lines=Hola+soy+Diego+Veras)](https://git.io/typing-svg)
 
-¡Hola! Soy un entusiasta programador principiante de 45 años, orgulloso de llamar a Argentina mi hogar. Durante 3700 horas de dedicación en compañía de colegas de todo el mundo, participé en clases virtuales donde enfrentamos y resolvimos desafiantes problemas diarios.
+Entusiasta programador de 46 años, orgulloso de llamar a Argentina mi hogar. Durante 5700 horas de dedicación en compañía de colegas de todo el mundo, participé en clases virtuales donde enfrentamos y resolvimos desafiantes problemas diarios.
 
 Mi viaje en la programación comenzó en un apasionante entorno de aprendizaje en línea, donde la colaboración y la determinación nos impulsaron a superar obstáculos y lograr nuestras metas. Estas experiencias me llenaron de entusiasmo y reforzaron mi deseo constante de crecimiento en el mundo de la programación.
 
@@ -15,7 +15,7 @@ Puedes contactarme a través de mi correo electrónico: [verasdiegoca78@gmail.co
 También puedes encontrarme en las siguientes redes sociales:
 
 ## 🌐 Redes Sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elgrantecno) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-cristian-alfredo-v-54b459249/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-cristian-alfredo-v-54b459249/)
 
 ¡Estoy ansioso por conectarme contigo y colaborar en proyectos interesantes!
 
