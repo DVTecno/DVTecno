@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=FFFFFF&background=6DB33F&center=true&vCenter=true&width=1200&height=100&lines=Hola+soy+Diego+Veras)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&height=100&lines=Hola+soy+Diego+Veras)](https://git.io/typing-svg)
 
 Entusiasta programador de 46 años, orgulloso de llamar a Argentina mi hogar. Durante 5700 horas de dedicación en compañía de colegas de todo el mundo, participé en clases virtuales donde enfrentamos y resolvimos desafiantes problemas diarios.
 
