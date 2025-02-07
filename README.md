@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&height=100&lines=Hola+soy+Diego+Veras)](https://git.io/typing-svg)
 
-Entusiasta programador de 46 años, orgulloso de llamar a Argentina mi hogar. Durante 5700 horas de dedicación en compañía de colegas de todo el mundo, participé en clases virtuales donde enfrentamos y resolvimos desafiantes problemas diarios.
+Entusiasta programador de 46 años, orgulloso de llamar a Argentina mi hogar. Durante 6700 horas de dedicación en compañía de colegas de todo el mundo, participé en clases virtuales donde enfrentamos y resolvimos desafiantes problemas diarios.
 
 Mi viaje en la programación comenzó en un apasionante entorno de aprendizaje en línea, donde la colaboración y la determinación nos impulsaron a superar obstáculos y lograr nuestras metas. Estas experiencias me llenaron de entusiasmo y reforzaron mi deseo constante de crecimiento en el mundo de la programación.
 
